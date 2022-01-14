@@ -2,7 +2,6 @@
 title: "Assignment 2: Single-Cycle LC4 Processor"
 date: 2021-09-01
 type: book
-commentable: true
 
 summary: "The second assignment for EE660: Computer Architecture I."
 
@@ -10,6 +9,10 @@ tags:
 - teaching
 - ee660
 - assignment
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 3
+
 ---
 
 ***

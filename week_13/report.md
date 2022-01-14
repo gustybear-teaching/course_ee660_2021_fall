@@ -2,8 +2,6 @@
 title: "Report 2: Single-Cycle LC4 Processor"
 date: 2021-12-19
 type: book
-commentable: true
-draft: true
 
 summary: "The second assignment for EE660, fall, 2021."
 
@@ -11,6 +9,9 @@ tags:
 - teaching
 - ee660
 - assignment
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 4
 ---
 
 ***

@@ -1,9 +1,7 @@
 ---
-draft: true
 title: "Report 1: ALU"
 date: 2021-10-03
 type: book
-commentable: true
 
 summary: "The first assignment for EE260, fall, 2021."
 
@@ -11,6 +9,10 @@ tags:
 - teaching
 - ee660
 - assignment
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 2
+
 ---
 
 ***

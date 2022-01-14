@@ -2,7 +2,6 @@
 title: "Assignment 1: ALU"
 date: 2021-09-01
 type: book
-commentable: true
 
 summary: "The first assignment for EE660: Computer Architecture I."
 
@@ -10,6 +9,10 @@ tags:
 - teaching
 - ee660
 - assignment
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 1
+
 ---
 
 ***
