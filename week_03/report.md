@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Report 1: ALU"
 date: 2021-10-03
 type: book

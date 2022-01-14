@@ -4,7 +4,7 @@ date: 2021-09-01
 type: book
 commentable: true
 
-summary: "The first assignment for EE260, fall, 2021."
+summary: "The second assignment for EE260, fall, 2021."
 
 tags:
 - teaching
